@@ -5,14 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e52b6756-12a6-4f05-8c0f-5a0dfb7b3d4e" name="Changes" comment="new project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00a44431-c3ff-48ab-8982-3c7a6c35edff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b069b10-6b10-4903-a1bb-36a719d654c1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/264676f6-a2f9-4c36-8ec0-e564adcc2057-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29bd33c5-7391-4220-b955-508b23eb4832-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2f145afd-7bdd-41e3-a6d5-71ed6fb56a4f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/40740a59-c7bc-4965-9aaf-72c479e35809-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/413608a4-56c3-4b40-9c11-8498c95dc13f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/573fad4a-c3e3-4638-bc95-9c0837713cc1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/580bc7d1-7345-47d8-9e44-8cbd932da890-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/904a7c49-0597-4f48-baec-dadf82946680-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9054e74e-fcb1-4f90-9afa-c09ec53d8e78-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/98881bca-6372-4287-873a-829aa262969e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/abb2d1ec-9fbd-4f01-80f5-1126e7d2944b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aff0012e-11a8-43c8-a183-c1d281350656-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b298b7e6-43a7-49ee-9b2e-3375bf687046-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be3f6fad-dbe5-4411-a532-0ca100843d4f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c2616f24-bfa6-4fab-bf23-0747bc3d1643-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d6e6c7b8-a81d-4706-868a-cc861a977da2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d986112d-2283-4569-b9b4-6db4a2f43485-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e80b8821-1393-4ba5-8713-a421ebeeabef-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ead5554a-2044-4b26-bddf-ea05e390e404-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f83c998e-72c8-421f-aaaf-ba1d058ea434-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fcbcf116-30cd-45bb-b8ee-c24da56fe347-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stressTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +47,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -42,12 +68,97 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_directory_selection": "C:/Users/slast/IdeaProjects/Dreamkas/src/test/java/clients",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="clients" />
+      <recent name="Clients" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\slast\IdeaProjects\Dreamkas\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest.testLoginButton">
+    <configuration name="BaseTest.setUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dreamkas" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <option name="METHOD_NAME" value="setUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dreamkas" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dreamkas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dreamkas" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testLoginButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dreamkas" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testLoginButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest.testLoginButton" />
+        <item itemvalue="JUnit.LoginTest.testLogin" />
+        <item itemvalue="JUnit.BaseTest.test" />
+        <item itemvalue="JUnit.LoginTest.test" />
+        <item itemvalue="JUnit.BaseTest.setUp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +168,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668977097735</updated>
     </task>
+    <task id="LOCAL-00001" summary="new project">
+      <created>1668978237465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668978237465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,13 +183,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new project" />
     <option name="LAST_COMMIT_MESSAGE" value="new project" />
   </component>
